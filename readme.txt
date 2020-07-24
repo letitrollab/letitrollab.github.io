@@ -1,1 +1,1 @@
-Web page for TSG
+Web page for The Snowboard Game
